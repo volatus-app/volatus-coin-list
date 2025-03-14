@@ -1,0 +1,75 @@
+{
+    "name": "Volatus Coin List",
+    "timestamp": "2025-03-15T00:00:00.000Z",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+    "tokens": [
+      {
+        "address": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701",
+        "name": "Wrapped Monad",
+        "symbol": "WMON",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/wmon.png"
+      },
+      {
+        "address": "0xf817257fed379853cDe0fa4F97AB987181B1E5Ea",
+        "name": "USDC",
+        "symbol": "USDC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/usdc.png"
+      },
+      {
+        "address": "0x88b8E2161DEDC77EF4ab7585569D2415a1C1055D",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/usdt.png"
+      },
+      {
+        "address": "0xcf5a6076cfa32686c0Df13aBaDa2b40dec133F1d",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/wbtc.png"
+      },
+      {
+        "address": "0xB5a30b0FDc5EA94A52fDc42e3E9760Cb8449Fb37",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/weth.png"
+      },
+      {
+        "address": "0x369CD1E20Fa7ea1F8e6dc0759709bA0bD978abE7",
+        "name": "Wrapped Solana",
+        "symbol": "WSOL",
+        "decimals": 9,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/wsol.png"
+      },
+      {
+        "address": "0x0F0BDEbF0F83cD1EE3974779Bcb7315f9808c714",
+        "name": "Molandak",
+        "symbol": "DAK",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/dak.png"
+      },
+      {
+        "address": "0xfe140e1dCe99Be9F4F15d657CD9b7BF622270C50",
+        "name": "Moyaki",
+        "symbol": "YAKI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/yaki.png"
+      },
+      {
+        "address": "0xE0590015A873bF326bd645c3E1266d4db41C4E6B",
+        "name": "Chog",
+        "symbol": "CHOG",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/chog.png"
+      }
+    ],
+    "defaultURI": "https://raw.githubusercontent.com/volatus-app/volatus-coin-list/main/icons/default.png"
+  }
