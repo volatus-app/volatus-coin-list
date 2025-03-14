@@ -1,0 +1,1 @@
+# volatus-coin-list
